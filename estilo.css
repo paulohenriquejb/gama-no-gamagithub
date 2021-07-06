@@ -1,0 +1,41 @@
+*{padding: 0;margin: 0;}
+body{background:url('ph7.png'); }
+h1, p, h2 {color:white;}
+
+
+#container{width:1080px;margin: 0 auto;background:url(ph3.jpg);  }
+
+#topo{background:url('logistica4.jpg') no-repeat;width:100%;height:100px;   }
+h1{color:white;font-family:monospace; }
+#logo{margin-left:50px;padding-top:25px;   }
+
+#menu a{text-decoration:none;color:white;font-family:monospace;}
+#menu ul li{list-style:none;text-align:center;display:inline;
+	padding: 5px 15px 10px 15px;  }
+#menu ul{margin-left:30%; }
+
+#menu{background:black;position:relative;right:;
+	margin-bottom:15px;padding: 15px 15px 15px 15px;    }
+#menu li:hover{background:#A4D3EE;color:black; }
+#menu a:hover{color:black; }
+
+#conteudo{margin-left:30px;color:white; }
+#conteudo ul li{margin-left:20px;}
+
+#conteudo img{width: 95%;height:350px;padding-bottom: 30px; }
+h3{color: white;}
+
+
+
+#f{margin-left:30px;width:500px;height:500px;text-align:center;padding-top:15px;
+position: relative;    }
+
+
+
+#f1{ margin-left:40px;width:500px;height:500px;text-align:center;padding-top:15px;
+position: absolute;top: 280px;left:650px;}
+
+#conteudo2 img{width: 400px;height: 400px;}
+
+
+#rodape{background:black;color: white;text-align:center;padding:6px 0 6px 0;margin-top:40px;  clear: both;}
